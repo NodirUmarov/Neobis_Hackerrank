@@ -3,7 +3,7 @@
 # 
 ```*Creator:*``` ***Nodir Umarov***
 
-<*Date of Creation:*> ***11.01.2019***
+<*Date of Creation:* = "xml"><Date of Creation:> ***11.01.2019***
 
 # The Logo of Java/Kotlin Department
 
