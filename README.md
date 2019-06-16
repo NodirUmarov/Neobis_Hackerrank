@@ -12,7 +12,7 @@ Date of Modification: ***16.06.2019***
 
 
 
-__A small block of Java code:__
+# __A small block of Java code:__
 
 ```java
 public class Main{
