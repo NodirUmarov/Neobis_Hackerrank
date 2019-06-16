@@ -22,5 +22,3 @@ public class Main{
 }
 ```
 
-I suggest you to listen this music:
-<a href="https://www.youtube.com/watch?v=14UPbgP8z0w" target="_blank">
