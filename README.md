@@ -1,11 +1,9 @@
 # Neobis_Hackerrank
 
 # 
-```python
-*Creator:* ***Nodir Umarov***
-```
+```*Creator:*``` ***Nodir Umarov***
 
-*Date of Creation:* ***11.01.2019***
+<*Date of Creation:*> ***11.01.2019***
 
 # The Logo of Java/Kotlin Department
 
