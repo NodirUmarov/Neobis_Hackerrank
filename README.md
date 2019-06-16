@@ -1,9 +1,9 @@
 # Neobis_Hackerrank
 
 # 
-```*Creator:*``` ***Nodir Umarov***
+*Creator: ***Nodir Umarov***
 
-<*Date of Creation:* inline="xml"></Date of Creation:> ***11.01.2019***
+*Date of Creation:* _***11.01.2019***_
 
 # The Logo of Java/Kotlin Department
 
